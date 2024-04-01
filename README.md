@@ -1,1 +1,1 @@
-# lenovo_jd20
+android-9
